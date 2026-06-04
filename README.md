@@ -25,6 +25,7 @@ PIN management, and statement generation through a full graphical interface.
 - **Connectivity:** JDBC (MySQL Connector/J)
 
 ## Project Structure
+```
 ATM Simulator System/
 ├── src/
 │   ├── Login.java            # Entry point — login screen
@@ -41,6 +42,7 @@ ATM Simulator System/
 │   └── connection.java       # DB connection (excluded from repo — see setup)
 ├── database.sql              # MySQL schema
 └── README.md
+```
 
 ## Setup & Installation
 
